@@ -1,0 +1,11 @@
+old
+SVCCA/.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
+/.idea
+/.ipynb_checkpoints
+__pycache__
+/data-analysis/demos
+SVCCA/activations/
+venv
+*/.ipynb_checkpoints
+multichannel_forecast
